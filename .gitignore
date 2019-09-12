@@ -1,0 +1,4 @@
+/samples
+/reference
+/analysis/*/.*
+*.DS_Store
